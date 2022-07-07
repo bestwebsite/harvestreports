@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@types/node-fetch": "^2.1.4",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "node-fetch": "^2.3.0",
     "zapier-platform-core": "7.6.0"
   },
